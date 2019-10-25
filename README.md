@@ -1,21 +1,4 @@
-# eleme
+一个 基于 vue.js 的仿饿了么SPA app
 
-> A Vue.js project
+项目中用到VueRouter、Axios、BetterScroll库，基于移动端页面开发的SPA应用，对ios及安卓的兼容性良好,对不同分辨率也做了适配。项目采用组件化开发，便于维护。
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
