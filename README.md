@@ -4,7 +4,7 @@
 
 ![image](https://github.com/jy9964/eleme/blob/master/img/外卖01_商品页.jpg)
 ![image](https://github.com/jy9964/eleme/blob/master/img/外卖02_商品页_公告及优惠信息.jpg)
-![image](https://github.com/jy9964/eleme/blob/master/img/外卖03_商品页_购物车详情.jpg)
+![image](https://github.com/jy9964/eleme/blob/master/img/外卖03_商品页_购物车详情.png)
 ![image](https://github.com/jy9964/eleme/blob/master/img/外卖04_商品页面_商品详情.jpg)
 ![image](https://github.com/jy9964/eleme/blob/master/img/外卖05_评价页.jpg)
 ![image](https://github.com/jy9964/eleme/blob/master/img/外卖06_商家页.jpg)
